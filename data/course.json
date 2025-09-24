@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Propulsion Systems"
+    ]
+  ],
+  "legacy_uid": "e1b639be-a596-294e-9f71-e8794bb09b1b",
+  "instructors": {
+    "content": [
+      "f55bf27a-4f99-0733-de08-0728328a5c36"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "5984462d-8df0-d53d-a9ca-3ef8843f1905",
+    "website": "16-050-thermal-energy-fall-2002"
+  },
+  "course_title": "Thermal Energy",
+  "course_description": "This course is taught in four main parts. The first is a review of fundamental thermodynamic concepts (e.g. energy exchange in propulsion and power processes), and is followed by the second law (e.g. reversibility and irreversibility, lost work). Next are applications of thermodynamics to engineering systems (e.g. propulsion and power cycles, thermo chemistry), and the course concludes with fundamentals of heat transfer (e.g. heat exchange in aerospace devices).\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.050",
+  "course_image_thumbnail": {
+    "content": "7770b9c2-9058-a07b-cff9-b177c5cea5c2",
+    "website": "16-050-thermal-energy-fall-2002"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "17e215bf-8260-4131-914e-ea90966fbe30",
+  "site_short_id": "16.050-fall-2002",
+  "site_url_path": "courses/16-050-thermal-energy-fall-2002",
+  "title": "Course Metadata"
+}
