@@ -248,7 +248,7 @@ The fundamental principle of academic integrity is that you must fairly represen
 
 Discussion among students to understand the homework problems or to prepare for laboratories or quizzes is encouraged. COLLABORATION ON HOMEWORK IS ALLOWED AS LONG AS ALL REFERENCES (BOTH LITERATURE AND PEOPLE) USED ARE NAMED CLEARLY AT THE END OF THE ASSIGNMENT. Word-by-word copies of someone else's solution or parts of a solution handed in for credit will be considered cheating unless there is a reference to the source for any part of the work which was copied verbatim. FAILURE TO CITE OTHER STUDENT'S CONTRIBUTION TO YOUR HOMEWORK SOLUTION WILL BE CONSIDERED CHEATING. The official Institute policy regarding academic honesty can be found in the MIT Bulletin Course and Degrees Issue under "Academic Procedures and Institute Regulations."
 
-MIT's academic honesty policy can be found at the following link: {{% resource_link "5e5f3a1a-9134-40e8-bfc0-f4cbfd16db40" "https://policies-procedures.mit.edu/academic-misconduct-and-dishonesty/" %}}
+MIT's academic honesty policy can be found at the following link: [https://policies-procedures.mit.edu/academic-misconduct-and-dishonesty/](https://policies-procedures.mit.edu/academic-misconduct-and-dishonesty/)
 
 Study Group Guidelines
 ----------------------
